@@ -1,0 +1,12 @@
+C:\Unity\BetterThanResogun\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Unity\BetterThanResogun\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Unity\BetterThanResogun\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Unity\BetterThanResogun\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Unity\BetterThanResogun\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Unity\BetterThanResogun\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Unity\BetterThanResogun\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Unity\BetterThanResogun\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Unity\BetterThanResogun\obj\Debug\UnityVS.BetterThanResogun.CSharp.csprojResolveAssemblyReference.cache
+C:\Unity\BetterThanResogun\obj\Debug\Assembly-CSharp.dll
+C:\Unity\BetterThanResogun\obj\Debug\Assembly-CSharp.pdb
+C:\Unity\BetterThanResogun\Temp\UnityVS_bin\Debug\MKGlowSystem.dll

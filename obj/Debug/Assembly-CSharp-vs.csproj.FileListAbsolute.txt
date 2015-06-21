@@ -1,0 +1,14 @@
+C:\Unity\BetterThanResogun\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Unity\BetterThanResogun\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Unity\BetterThanResogun\Temp\bin\Debug\UnityEditor.dll
+C:\Unity\BetterThanResogun\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Unity\BetterThanResogun\Temp\bin\Debug\UnityEngine.dll
+C:\Unity\BetterThanResogun\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Unity\BetterThanResogun\Temp\bin\Debug\Mono.Cecil.dll
+C:\Unity\BetterThanResogun\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Unity\BetterThanResogun\Temp\bin\Debug\Unity.DataContract.dll
+C:\Unity\BetterThanResogun\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Unity\BetterThanResogun\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Unity\BetterThanResogun\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Unity\BetterThanResogun\obj\Debug\Assembly-CSharp.dll
+C:\Unity\BetterThanResogun\obj\Debug\Assembly-CSharp.pdb
